@@ -2,50 +2,26 @@
  
 ## 📸 Screenshots
 
-**Home:**
+**Main Screen:**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss1.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013446.png" width="250">
 
-**Search:** 
+**Get Started Screen:** 
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss2.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013513.png" width="250">
 
-**Profile Followers:**
+**Home Screen:**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss3.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013535.png" width="250">
 
-**Profile Following:**
+**Home Screen(1):**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss4.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013605.png" width="250">
 
-**Profile Following(1):**
+**Detail Screen:**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss5.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013622.png" width="250">
 
-**Liking a profile:**
+**Detail Screen(1):**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss6.png" width="250">
-
-**Liked profile:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss7.png" width="250">
-
-**Settings:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss8.png" width="250">
-
-**Reminder Settings:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss9.png" width="250">
-
-**Turning on Reminder:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss10.png" width="250">
-
-**Initial notifications:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss11.png" width="250">
-
-**Github notification:**
-
-<img src="https://raw.githubusercontent.com/mrizalf7/Submission3-Dicoding-BFAA/master/screenshots/ss12.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_014219.png" width="250">
