@@ -4,7 +4,7 @@
 
 **Main Screen:**
 
-<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013446.png" width="250">
+<img src="https://raw.githubusercontent.com/mrizalf7/ClothesUI---Android-Jetpack-Compose/main/screenshots/Screenshot_20220621_013446.png" width="350">
 
 **Get Started Screen:** 
 
